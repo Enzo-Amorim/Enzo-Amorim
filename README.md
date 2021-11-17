@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">Fullstack developer in Brazil</h3>
 
-- 🔭 I’m currently working on [10espero](https://github.com/Enzo-Amorim/10espero)
+- 🔭 I’m currently working on [Fetchly](https://fetch.ly)
 
 - 🌱 I’m currently learning **Golang**
 
