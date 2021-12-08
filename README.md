@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fetchly](https://fetch.ly)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **React Native, node.js, Golang**
 
