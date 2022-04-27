@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **React Native, node.js, Golang**
+- 💬 Ask me about **React Native, node.js, Golang, React, Ruby on Rails**
 
 - 📫 How to reach me **amorimenzo021@gmail.com**
 
