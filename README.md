@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">Fullstack developer in Brazil</h3>
+<h3 align="center">Fullstack developer</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
