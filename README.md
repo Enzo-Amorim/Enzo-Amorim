@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **amorimenzo021@gmail.com**
 
-- ⚡ Fun fact **I was a professional swimmer 🤿**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/enzoamorim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/enzo-amorim-012a3618b/" height="30" width="40" /></a>
